@@ -26,9 +26,9 @@ I'm a **Frontend Developer** passionate about building **beautiful, responsive, 
 
 ## 📊 GitHub Stats
 
-![Torekul's GitHub stats](https://github-readme-stats.vercel.app/api?username=TorekulIslam&show_icons=true&hide_border=true&theme=radical)  
+![Torekul's GitHub stats](https://github-readme-stats.vercel.app/api?username=torekulislam&show_icons=true&hide_border=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TorekulIslam&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=torekulislam&layout=compact&theme=radical)  
 
 ---
 
@@ -36,7 +36,7 @@ I'm a **Frontend Developer** passionate about building **beautiful, responsive, 
 
 - Gmail: [torekuldev@gmail.com](mailto:torekuldev@gmail.com)  
 - LinkedIn: [linkedin.com/in/torekul-islam-72748b335](https://www.linkedin.com/in/torekul-islam-72748b335/)  
-- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
+
 
 ---
 
